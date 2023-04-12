@@ -9,4 +9,6 @@ However, slight directory changes or command modifications (due to version diffe
 
 Message me if you need help implementing the work flow locally, and we hope you find our research valuable.
 
+If you use this code, we would appreciate a citation for the associated manuscript: TBD
+
 Colin A
